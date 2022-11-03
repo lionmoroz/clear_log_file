@@ -1,0 +1,1 @@
+# clear_log_file
